@@ -1,0 +1,19 @@
+# Manipulação e análise de dados
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualização de dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning, Pré-processamento e Métricas
+scikit-learn>=1.2.0
+
+# Reamostragem e Tratamento de Desbalanceamento (SMOTE)
+imbalanced-learn>=0.10.0
+
+# Modelo de Gradiente Boosting
+xgboost>=1.7.0
+
+# Suporte à execução em ambiente Jupyter / VSCode Kernel
+ipykernel>=6.20.0
